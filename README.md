@@ -1,1 +1,10 @@
-# react-project-setup
+# React + TypeScript
+
+## Base dependencies:
+
+- Vite
+- Typescript
+- React
+- TailwindCSS
+- ESlint
+- Prettier
