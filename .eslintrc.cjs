@@ -9,7 +9,7 @@ module.exports = {
     'plugin:react/recommended',
     'plugin:react/jsx-runtime',
   ],
-  ignorePatterns: ['dist', '.eslintrc.cjs', '**/*.config.js'],
+  ignorePatterns: ['dist', '.eslintrc.cjs', '**/*.config.js', '**/*.config.ts', '__mocks__/*'],
   parser: '@typescript-eslint/parser',
   parserOptions: {
     project: ['./tsconfig.json'],
