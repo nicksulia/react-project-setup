@@ -1,0 +1,26 @@
+{
+  "id": 1,
+  "title": "Example Data",
+  "description": "This is example data fetched using RTK Query",
+  "items": [
+    {
+      "id": 1,
+      "name": "Item 1",
+      "value": "Value 1"
+    },
+    {
+      "id": 2,
+      "name": "Item 2", 
+      "value": "Value 2"
+    },
+    {
+      "id": 3,
+      "name": "Item 3",
+      "value": "Value 3"
+    }
+  ],
+  "metadata": {
+    "createdAt": "2025-09-02T00:00:00Z",
+    "version": "1.0.0"
+  }
+}
